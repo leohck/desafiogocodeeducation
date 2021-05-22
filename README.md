@@ -1,10 +1,13 @@
 # Code Education Go Challenge
 
 
-Resolution of the challenge
+Challenge Resolution
 
 
 docker image: leohck/codeeducation:latest
+
+
+docker image size: 1.94MB
 
 
 # Usage:
